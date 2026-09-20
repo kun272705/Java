@@ -2,8 +2,8 @@ Control flow statements
 
 Decision-making statements
 
-if-then
-if-then-else
+if
+if-else
 switch
 
 A switch works with the byte, short, int and char primitive data types. It also works with enumerated types, the String class, and a few special classes that wrap certain primitive types: Byte, Short, Integer and Character.
@@ -25,4 +25,11 @@ return
 An unlabeled break statement terminates the innermost switch, for, while, or do-while statement, but a labeled break terminates an outer statement.
 
 An unlabeled continue statement skips to the end of the innermost loop's body and evaluates the boolean expression that controls the loop. A labeled continue statement skips the current iteration of an outer loop marked with the given label.
+
+Eexception-throwing statements 
+
+throw
+try
+try-catch
+try-catch-finally
 
