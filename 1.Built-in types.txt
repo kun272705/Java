@@ -1,0 +1,19 @@
+Built-in types
+
+byte, short, int and long
+
+An integer literal is of type int by default, so the compiler will raise the "integer number too large" error when you attempt to create a long typed literal without the "L" suffix.
+
+Integer literals can be expressed by three number systems: decimal, hexadecimal and binary.
+
+float and double
+
+The float type and the double type should never be used for precise values, such as currency. For that, you will need to use the java.math.BigDecimal class instead.
+
+A floating-point literal is of type double by default, so the compiler will raise the "possible lossy conversion from double to float" error when you attempt to assign a double typed literal to a float typed symbol.
+
+Floating-point literals can also be expressed using "e".
+
+boolean
+
+char
