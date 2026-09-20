@@ -26,7 +26,7 @@ An unlabeled break statement terminates the innermost switch, for, while, or do-
 
 An unlabeled continue statement skips to the end of the innermost loop's body and evaluates the boolean expression that controls the loop. A labeled continue statement skips the current iteration of an outer loop marked with the given label.
 
-Eexception-throwing statements 
+Eexception-handling statements 
 
 throw
 try
