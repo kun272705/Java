@@ -2,7 +2,7 @@ Control flow statements
 
 Decision-making statements
 
-if-else if-else
+if
 switch
 
 A switch works with the byte, short, int and char primitive data types. It also works with enumerated types, the String class, and a few special classes that wrap certain primitive types: Byte, Short, Integer and Character.
@@ -28,5 +28,5 @@ An unlabeled continue statement skips to the end of the innermost loop's body an
 Eexception-handling statements 
 
 throw
-try-catch-finally
+try
 
