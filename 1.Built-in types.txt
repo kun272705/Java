@@ -17,3 +17,4 @@ Floating-point literals can also be expressed using "e".
 boolean
 
 char
+
