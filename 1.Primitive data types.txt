@@ -1,4 +1,4 @@
-Built-in types
+Primitive data types
 
 Integer types
 
@@ -29,4 +29,3 @@ boolean
 Character type
 
 char
-
