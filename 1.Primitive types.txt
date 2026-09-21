@@ -29,3 +29,4 @@ boolean
 Character type
 
 char
+
