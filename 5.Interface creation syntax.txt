@@ -1,4 +1,3 @@
 Interface creation syntax
 
 You use the interface keyword to define an interface.
-
