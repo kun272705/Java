@@ -1,4 +1,4 @@
 CREDITS
 
-* Trail: Learning the Java Language: https://docs.oracle.com/javase/tutorial/java/index.html
+1. Trail: Learning the Java Language: https://docs.oracle.com/javase/tutorial/java/index.html
 
